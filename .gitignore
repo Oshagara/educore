@@ -22,9 +22,7 @@ coverage/
 *.swp
 Thumbs.db
 
-courseRoutes.js
-courseController.js
+
 enrollmentRoutes.js
 enrollmentController.js
-Course.js
 Enrollment.js
