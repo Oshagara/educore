@@ -21,8 +21,3 @@ coverage/
 .idea/
 *.swp
 Thumbs.db
-
-
-enrollmentRoutes.js
-enrollmentController.js
-Enrollment.js
